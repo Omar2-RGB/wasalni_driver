@@ -1,0 +1,40 @@
+name: wasalni_driver
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # الأساسيات
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.5
+  
+  # Backend
+  supabase_flutter: ^2.14.1
+  
+  # الخرائط والمواقع
+  google_maps_flutter: ^2.17.1
+  flutter_polyline_points: ^2.0.0
+  geolocator: ^14.0.2
+  
+  # أدوات إضافية
+  animate_do: ^5.1.0
+  image_picker: ^1.2.2
+  url_launcher: ^6.2.0
+  firebase_core: ^4.10.0
+  firebase_messaging: ^16.3.0
+firebase_core: ^2.32.0
+firebase_messaging: ^14.9.3
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

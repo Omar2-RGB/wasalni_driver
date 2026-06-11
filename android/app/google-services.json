@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258493182209",
+    "project_id": "wasalni-60f04",
+    "storage_bucket": "wasalni-60f04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258493182209:android:74d727926860a9b6dc6b00",
+        "android_client_info": {
+          "package_name": "com.wasalni.wasalni_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVXnnQhH_66hX5BBGVi2GrTVIUqiR_8hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
